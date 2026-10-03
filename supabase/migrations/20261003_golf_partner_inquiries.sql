@@ -1,0 +1,4 @@
+-- Applied to Supabase project eddximawayqmnupayhaj (shared EVOLT project, `golf` schema).
+-- Table: golf.partner_inquiries (RLS on, no public policies — access only via the functions below)
+-- Functions: golf.partner_booked_slots, golf.submit_partner_inquiry, golf.mark_partner_email_sent
+-- See the Supabase dashboard > Database > Migrations for the exact applied SQL.
